@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.21f733b9.css",
-    "main.js": "/static/js/main.8528f5ce.js",
+    "main.css": "/static/css/main.de626f04.css",
+    "main.js": "/static/js/main.5a53a5a6.js",
     "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
     "static/media/mirisssa.png": "/static/media/mirisssa.3b6d88f9630303018b0b.png",
     "static/media/sunset.png": "/static/media/sunset.c28c82768db4342461a4.png",
     "static/media/520966-seashore 1.png": "/static/media/520966-seashore 1.f09a5e2ed7893b12d160.png",
     "static/media/footer Image.png": "/static/media/footer Image.dee48da83934fb6d6b30.png",
     "static/media/travelerExperience.png": "/static/media/travelerExperience.67959483e7eec906294f.png",
-    "static/media/Sinharaja.png": "/static/media/Sinharaja.d3e3e5c4dc071aa74672.png",
-    "static/media/Hikkaduwa Beach.png": "/static/media/Hikkaduwa Beach.6d7b00ce89521c88fc4a.png",
-    "static/media/Temple of the Tooth.png": "/static/media/Temple of the Tooth.be60bffdf0560c2a073a.png",
-    "static/media/Images.png": "/static/media/Images.b8ed8badfbe439ff44da.png",
-    "static/media/Galle Fort.png": "/static/media/Galle Fort.435c930aa8ac05a1e375.png",
-    "static/media/galle fort 1.png": "/static/media/galle fort 1.d34bd9d690a9b8ddd605.png",
-    "static/media/9 arch 1.png": "/static/media/9 arch 1.1306fbf9880fba73c4c8.png",
     "static/media/Background-Pattern.png": "/static/media/Background-Pattern.e8329816f723d04da2a8.png",
     "static/media/world tour 02 1.png": "/static/media/world tour 02 1.780fde1497136d120ccc.png",
     "static/media/person.png": "/static/media/person.11cd92d2d05618601b29.png",
@@ -27,6 +20,7 @@
     "static/media/user.png": "/static/media/user.557587208eb9e232f2ca.png",
     "static/media/road.png": "/static/media/road.81959f02803eab8ed83d.png",
     "static/media/google.png": "/static/media/google.cadee8cdb0c0afb1a713.png",
+    "static/media/flag.jpg": "/static/media/flag.86cc4f0a3459bb782e94.jpg",
     "static/media/check-mark.png": "/static/media/check-mark.0ad340259a8c140a65cd.png",
     "static/media/delete.png": "/static/media/delete.0fb3a192b8de6c581669.png",
     "static/media/arrow-right.png": "/static/media/arrow-right.a047fe68b104ae4adae5.png",
@@ -38,12 +32,12 @@
     "index.html": "/index.html",
     "static/media/Left Arrow.svg": "/static/media/Left Arrow.e416a8dfff49c2087bef1bdf7c2b124c.svg",
     "static/media/Right Arrow.svg": "/static/media/Right Arrow.4edcc541c5e5aada9748317007c19329.svg",
-    "main.21f733b9.css.map": "/static/css/main.21f733b9.css.map",
-    "main.8528f5ce.js.map": "/static/js/main.8528f5ce.js.map",
+    "main.de626f04.css.map": "/static/css/main.de626f04.css.map",
+    "main.5a53a5a6.js.map": "/static/js/main.5a53a5a6.js.map",
     "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21f733b9.css",
-    "static/js/main.8528f5ce.js"
+    "static/css/main.de626f04.css",
+    "static/js/main.5a53a5a6.js"
   ]
 }
